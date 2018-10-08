@@ -11,4 +11,6 @@ echo "commit 2";
 
 echo "commit 3";
 
+echo "fix conflict tanmnt/production/ticket/123-1";
+
 // <!--END -  tanmnt - 113 - ADD -->2
