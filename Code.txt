@@ -1,10 +1,6 @@
 code 1
 code 2
-<<<<<<< HEAD
 code 3
 code 4
 code 5
 code 6
-=======
-code 3
->>>>>>> de87658... commit 2
